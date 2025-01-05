@@ -5,7 +5,9 @@ _I work on a ton of stuff, but I typically forget to use Github._
 theinterwebs.com
 -
 aethralis.com
+•
 wydewebs.io
+•
 bloggcast.com
 - Fun fact: I forgot how to use Github for a while.
 - I am Neurodivergent. 🛏️
