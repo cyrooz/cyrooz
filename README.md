@@ -2,11 +2,11 @@
 
 _I work on a ton of stuff, but I typically forget to use Github._
 
-bloggcast.com
+theinterwebs.com
 -
 aethralis.com
 wydewebs.io
-theinterwebs.com
+bloggcast.com
 - Fun fact: I forgot how to use Github for a while.
 - I am Neurodivergent. 🛏️
 - I mainly use TypeScript, Go, & I dabble in a bit of Rust 🦀.
