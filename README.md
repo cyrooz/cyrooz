@@ -1,8 +1,7 @@
 # `fn main(){println!("Hello world, I'm Cyrus");}`
-
+🖖 Welcome to my GitHub.
 _I work on a ton of stuff, but I typically forget to use Github._
 
-# 🖖 Welcome to Cyrus Sam²i's GitHub
 ![Profile Views](https://komarev.com/ghpvc/?username=cyrooz&color=brightgreen)
 
 
