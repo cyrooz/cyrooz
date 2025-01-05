@@ -1,4 +1,4 @@
-# `fn main() { println!("Hello world, I'm Cyrus"); }`
+# `fn main(){println!("Hello world, I'm Cyrus");}`
 
 _I work on a ton of stuff, but I typically forget to use Github._
 
